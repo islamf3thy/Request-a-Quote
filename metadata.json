@@ -1,0 +1,6 @@
+{
+  "name": "Corporate Request a Quote Portal",
+  "description": "Premium multi-step Request a Quote application with Botble CMS & Laravel Blade compatibility, responsive split-layout, and interactive service selector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
